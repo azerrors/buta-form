@@ -8,7 +8,7 @@ function App() {
       </div>
 
       <form className="bg-sky-100  flex flex-col gap-10 p-7 mt-5">
-        <h1 className="text-xl  border-b-2 pb-3 border-sky-900">Buta Vacancy</h1>
+        <h1 className="text-xl  border-b-2 pb-3 border-sky-900">Buta Vakansiya</h1>
         <div className="flex flex-col gap-2">
           <label className="font-semibold text-lg">1. Ad</label>
           <input
@@ -54,7 +54,7 @@ function App() {
           />
         </div>
 
-        <button className="border p-2 rounded-md cursor-pointer text-white text-xl font-semibold bg-sky-500">
+        <button className="border p-2 rounded-md cursor-pointer text-white text-xl font-semibold bg-sky-700">
           Göndər
         </button>
       </form>
